@@ -19,9 +19,9 @@ app.add_middleware(
 )
 
 # Sample User Information
-USER_ID = "john_doe_17091999"
-EMAIL = "john@xyz.com"
-ROLL_NUMBER = "ABCD123"
+USER_ID = "niharika_jain_31072003"
+EMAIL = "nj6934@srmist.edu.in"
+ROLL_NUMBER = "RA2111026030197"
 
 
 # Request Model for the POST request
